@@ -52,3 +52,7 @@ model = joblib.load('telco_churn_production_model.joblib')
 # Make predictions on new data
 # The pipeline automatically handles the scaling and encoding
 predictions = model.predict(X_new)
+
+👨‍💻 Author
+Muhammad Yahya Artificial Intelligence Student | Machine Learning Enthusiast DevelopersHub AI/ML Advanced Internship - Task 02
+
