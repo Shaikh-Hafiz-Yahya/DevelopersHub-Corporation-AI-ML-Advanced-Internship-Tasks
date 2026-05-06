@@ -41,12 +41,11 @@ Welcome to my professional repository for the **AI/ML Advanced Internship** at D
 * **Deep Learning:** TensorFlow, Keras (CNNs)
 * **Generative AI:** Hugging Face Transformers, Prompt Engineering
 * **Environment:** Google Colab (T4 GPU), GitHub Version Control
-* **Design:** UI/UX Wireframing in Figma
 
 ---
 
 ## 🏁 Conclusion
-During this internship, I successfully integrated advanced AI techniques into diverse scenarios—from healthcare risk diagnosis using Fuzzy Logic to multimodal regression and LLM-based automation. Each task follows industry-standard best practices for code quality and documentation.
+During this internship. Each task follows industry-standard best practices for code quality and documentation.
 
 ---
 
